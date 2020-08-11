@@ -13,6 +13,7 @@
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
     "bootstrap": "^4.5.0",
+    "color": "^3.1.2",
     "jss": "^10.3.0",
     "jss-plugin-expand": "^10.3.0",
     "react": "^16.13.1",
