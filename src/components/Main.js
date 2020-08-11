@@ -76,6 +76,9 @@ const useStyles = makeStyles((theme) => ({
   p: {
     color: "hsl(243, 10%, 44%)",
     marginBottom: theme.spacing(2),
+    [theme.breakpoints.up("md")]: {
+      color: "inherit",
+    },
   },
   linkGutter: {
     marginTop: theme.spacing(4),
